@@ -25,3 +25,15 @@ For all of the printed parts, make sure you use ABS or better due to the high te
 A comprehensive materials list can be found below. At the time that this was put together (May 2024), total costs were around $1300, but are probably much higher now.
 
 FUTURE ME PUT SHEET HERE
+
+## Known Issues
+There's probably much more that I'm missing, but this should get you started if you for some reason want to fix the junk that I uploaded
+ - No electronic models or enclousures. Power supply is there, but that's about it. 
+ - Complete lack of real world testing
+ - There are no screws or fasteners in the model
+ - Cooling is probably sub-par for such a fast printer
+ - Enclosure acryllic is lacking holes in places
+ - Enclosure acryllic clips into stepper motors when closing top lid
+ - There's no places for the belt pullies to attach to the mechanisms
+ - Still using a BL Touch
+ - 
