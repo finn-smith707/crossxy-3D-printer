@@ -36,4 +36,9 @@ There's probably much more that I'm missing, but this should get you started if 
  - Enclosure acryllic clips into stepper motors when closing top lid
  - There's no places for the belt pullies to attach to the mechanisms
  - Still using a BL Touch
- - 
+ - Needs paths and holes for filament to go through
+ - Software and presets have never existed in the history of ever
+
+## Random stuff
+  - This assembly uses the models for a high-flow 3D printer hotend made by Sandman on GrabCad ([https://grabcad.com/library/phaetus-rapido-hf-hotend-1](url)), a bed leveling sensor by Findusdwarf ([https://grabcad.com/library/cr-touch-dummy-1](url)), and a 3D printer extruder by anderfogel, also on GrabCad. ([https://grabcad.com/library/bmg-extruder-2](url)) All rights to these parts go to their respective owners.
+
