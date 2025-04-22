@@ -40,5 +40,9 @@ There's probably much more that I'm missing, but this should get you started if 
  - Software and presets have never existed in the history of ever
 
 ## Random stuff
-  - This assembly uses the models for a high-flow 3D printer hotend made by Sandman on GrabCad ([https://grabcad.com/library/phaetus-rapido-hf-hotend-1](url)), a bed leveling sensor by Findusdwarf ([https://grabcad.com/library/cr-touch-dummy-1](url)), and a 3D printer extruder by anderfogel, also on GrabCad. ([https://grabcad.com/library/bmg-extruder-2](url)) All rights to these parts go to their respective owners.
+  - This assembly uses the models for the following:
+    - High-flow 3D printer hotend made by Sandman on GrabCad ([https://grabcad.com/library/phaetus-rapido-hf-hotend-1](url))
+    - Bed leveling sensor by Findusdwarf on GrabCad ([https://grabcad.com/library/cr-touch-dummy-1](url))
+    - 3D printer extruder by anderfogel, also on GrabCad. ([https://grabcad.com/library/bmg-extruder-2](url))
+   - All rights to these parts go to their respective owners.
 
